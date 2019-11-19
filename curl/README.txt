@@ -29,9 +29,8 @@ CONTACT
   All contributors to the project are listed in the THANKS document.
 
 WEB SITE
-
   Visit the curl web site for the latest news and downloads:
-
+        https://curl.haxx.se/windows/
         https://curl.haxx.se/
 
 GIT
