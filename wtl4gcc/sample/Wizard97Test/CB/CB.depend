@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1156057356 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard97test.cpp
+	"stdafx.h"
+	"resource.h"
+	"Wizard\TestWizard.h"
+
+1209100103 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\stdafx.h
+	"resource.h"
+	<atlbase.h>
+	<atlstr.h>
+	<atltypes.h>
+	<atlapp.h>
+	<atlwin.h>
+	<atlmisc.h>
+	<atlframe.h>
+	<atlddx.h>
+	<atldlgs.h>
+	<atlctrls.h>
+	<atlctrlw.h>
+	<atlctrlx.h>
+	<atlscrl.h>
+
+1156057356 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\resource.h
+
+1209084860 d:\ymao\my documents\gcc\wtltest\atlport\include\atlbase.h
+	"atldef.h"
+	<windows.h>
+	<winnls.h>
+	<ole2.h>
+	"atlconv.h"
+	<ocidl.h>
+	<olectl.h>
+	<comcat.h>
+	<tchar.h>
+	"atliface.h"
+	<shlwapi.h>
+
+1168941074 d:\ymao\my documents\gcc\wtltest\atlport\include\atldef.h
+
+1209098361 d:\ymao\my documents\gcc\wtltest\atlport\include\atlconv.h
+	"../../stdext/include/stdext/Basic.h"
+
+1168945426 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\basic.h
+	<string.h>
+	<objbase.h>
+	<assert.h>
+	<wtypes.h>
+	"msvc/msvcrt.h"
+	"msvc/uuidof.h"
+	"TestCase.h"
+	"Log.h"
+
+1168941250 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\msvcrt.h
+	"atlconv.h"
+	"crtdbg.h"
+	<assert.h>
+	<crtdbg.h>
+	<exception>
+
+1168869442 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\atlconv.h
+	<wchar.h>
+	<malloc.h>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\crtdbg.h
+
+1168793142 d:\ymao\my documents\gcc\wtltest\atlport\include\crtdbg.h
+
+1168941250 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\uuidof.h
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\testcase.h
+	"Basic.h"
+	<iterator>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\log.h
+	"Basic.h"
+	"Storage.h"
+	<stdio.h>
+	<stdarg.h>
+	<string>
+
+1168423394 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\storage.h
+	"Basic.h"
+	"Array.h"
+	<stdio.h>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\array.h
+	"Basic.h"
+	<stdexcept>
+	<algorithm>
+	<functional>
+
+1168941074 d:\ymao\my documents\gcc\wtltest\atlport\include\atliface.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+
+1209004288 d:\ymao\my documents\gcc\wtltest\wtl\include\atlapp.h
+	<limits.h>
+	<process.h>
+	<commctrl.h>
+	"atlres.h"
+	"atlresce.h"
+	"atlwinx.h"
+	"atluser.h"
+	"atlgdi.h"
+
+1209025341 d:\ymao\my documents\gcc\wtltest\wtl\include\atlres.h
+	<winresrc.h>
+
+1168431952 d:\ymao\my documents\gcc\wtltest\wtl\include\atlresce.h
+	<commctrl.h>
+	<aygshell.h>
+	<windows.h>
+	"atlres.h"
+
+1168431952 d:\ymao\my documents\gcc\wtltest\wtl\include\atlwinx.h
+	<atlwin.h>
+
+1209106451 d:\ymao\my documents\gcc\wtltest\atlport\include\atlwin.h
+
+1168950446 d:\ymao\my documents\gcc\wtltest\wtl\include\atluser.h
+
+1209105265 d:\ymao\my documents\gcc\wtltest\wtl\include\atlgdi.h
+
+1209108726 d:\ymao\my documents\gcc\wtltest\wtl\include\atlmisc.h
+	<stdio.h>
+
+1209092189 d:\ymao\my documents\gcc\wtltest\wtl\include\atlframe.h
+
+1168431952 d:\ymao\my documents\gcc\wtltest\wtl\include\atlddx.h
+	<float.h>
+	<stdio.h>
+
+1209106373 d:\ymao\my documents\gcc\wtltest\wtl\include\atldlgs.h
+	<commdlg.h>
+	<shlobj.h>
+
+1209097085 d:\ymao\my documents\gcc\wtltest\wtl\include\atlctrls.h
+	<richedit.h>
+	<richole.h>
+	<winuserm.h>
+
+1209106342 d:\ymao\my documents\gcc\wtltest\wtl\include\atlctrlw.h
+
+1209098038 d:\ymao\my documents\gcc\wtltest\wtl\include\atlctrlx.h
+
+1209087221 d:\ymao\my documents\gcc\wtltest\wtl\include\atlscrl.h
+	<zmouse.h>
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizard.h
+	"TestWizardInfo.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardinfo.h
+
+1209100663 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizard.cpp
+	"../stdafx.h"
+	"TestWizard.h"
+	"TestWizardSheet.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardsheet.h
+	"TestWizardWelcomePage.h"
+	"TestWizardPathFilterPage.h"
+	"TestWizardFilePreviewPage.h"
+	"TestWizardOutputPage.h"
+	"TestWizardCompletionPage.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardwelcomepage.h
+	"TestWizardInfo.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardpathfilterpage.h
+	"TestWizardInfo.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardfilepreviewpage.h
+	"TestWizardInfo.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardoutputpage.h
+	"TestWizardInfo.h"
+
+1209102360 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardcompletionpage.h
+	"TestWizardInfo.h"
+
+1209102240 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardcompletionpage.cpp
+	"../stdafx.h"
+	"TestWizardCompletionPage.h"
+
+1209100748 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardfilepreviewpage.cpp
+	"../stdafx.h"
+	"TestWizardFilePreviewPage.h"
+
+1209100830 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardinfo.cpp
+	"../stdafx.h"
+	"TestWizardInfo.h"
+	<mapi.h>
+
+1209100955 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardoutputpage.cpp
+	"../stdafx.h"
+	"TestWizardOutputPage.h"
+
+1209100663 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardpathfilterpage.cpp
+	"../stdafx.h"
+	"TestWizardPathFilterPage.h"
+	"FolderDialogStatusText.h"
+
+1156057358 d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\folderdialogstatustext.h
+
+1209100664 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardsheet.cpp
+	"../stdafx.h"
+	"TestWizardSheet.h"
+
+1209100662 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\wizard\testwizardwelcomepage.cpp
+	"../stdafx.h"
+	"TestWizardWelcomePage.h"
+
+1156057358 source:d:\ymao\my documents\gcc\wtltest\sample\wizard97test\stdafx.cpp
+	"stdafx.h"
+	<atlimpl.cpp>
+
+1209105943 d:\ymao\my documents\gcc\wtltest\atlport\include\atlimpl.cpp
+

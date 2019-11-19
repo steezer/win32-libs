@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\BmpView.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1506" topLine="42" />
+	</File>
+	<File name="..\BmpView.rc" open="0" top="0" tabpos="2">
+		<Cursor position="4431" topLine="153" />
+	</File>
+	<File name="..\mainfrm.h" open="0" top="0" tabpos="0">
+		<Cursor position="3758" topLine="420" />
+	</File>
+	<File name="..\stdafx.h" open="0" top="0" tabpos="5">
+		<Cursor position="432" topLine="0" />
+	</File>
+	<File name="..\view.h" open="0" top="0" tabpos="0">
+		<Cursor position="312" topLine="7" />
+	</File>
+</CodeBlocks_layout_file>

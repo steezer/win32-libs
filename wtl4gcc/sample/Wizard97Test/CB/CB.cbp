@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CB" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\CB" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-w" />
+			<Add option="-Wall" />
+			<Add option="-fpermissive" />
+			<Add directory="..\..\..\wtl\include" />
+			<Add directory="..\..\..\atlport\include" />
+		</Compiler>
+		<ResourceCompiler>
+			<Add directory="..\..\..\atlport\include" />
+			<Add directory="..\..\..\wtl\include" />
+		</ResourceCompiler>
+		<Linker>
+			<Add option="-lcomdlg32 -lwinspool -lwinmm -lshell32 -lcomctl32 -lole32 -loleaut32 -lshlwapi -Wl,--allow-multiple-definition" />
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+		</Linker>
+		<Unit filename="..\Wizard97Test.cpp" />
+		<Unit filename="..\Wizard97Test.h" />
+		<Unit filename="..\Wizard97Test.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="..\Wizard\TestWizard.cpp" />
+		<Unit filename="..\Wizard\TestWizardCompletionPage.cpp" />
+		<Unit filename="..\Wizard\TestWizardFilePreviewPage.cpp" />
+		<Unit filename="..\Wizard\TestWizardInfo.cpp" />
+		<Unit filename="..\Wizard\TestWizardOutputPage.cpp" />
+		<Unit filename="..\Wizard\TestWizardPathFilterPage.cpp" />
+		<Unit filename="..\Wizard\TestWizardSheet.cpp" />
+		<Unit filename="..\Wizard\TestWizardWelcomePage.cpp" />
+		<Unit filename="..\resource.h" />
+		<Unit filename="..\stdafx.h" />
+		<Extensions>
+			<code_completion>
+				<search_path add="..\..\..\atlport\include" />
+				<search_path add="..\..\..\wtl\include" />
+			</code_completion>
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

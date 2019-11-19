@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1156057354 source:d:\ymao\my documents\gcc\wtltest\sample\alpha\alpha.rc
+	"resource.h"
+	"atlres.h"
+
+1156057356 d:\ymao\my documents\gcc\wtltest\sample\alpha\resource.h
+
+1209025341 d:\ymao\my documents\gcc\wtltest\wtl\include\atlres.h
+	<winresrc.h>
+
+1209105299 source:d:\ymao\my documents\gcc\wtltest\sample\alpha\stdafx.cpp
+	"stdafx.h"
+	<atlimpl.cpp>
+
+1209026763 d:\ymao\my documents\gcc\wtltest\sample\alpha\stdafx.h
+	<atlbase.h>
+	<atlapp.h>
+	<atlwin.h>
+
+1209084860 d:\ymao\my documents\gcc\wtltest\atlport\include\atlbase.h
+	"atldef.h"
+	<windows.h>
+	<winnls.h>
+	<ole2.h>
+	"atlconv.h"
+	<ocidl.h>
+	<olectl.h>
+	<comcat.h>
+	<tchar.h>
+	"atliface.h"
+	<shlwapi.h>
+
+1168941074 d:\ymao\my documents\gcc\wtltest\atlport\include\atldef.h
+
+1209098361 d:\ymao\my documents\gcc\wtltest\atlport\include\atlconv.h
+	"../../stdext/include/stdext/Basic.h"
+
+1168945426 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\basic.h
+	<string.h>
+	<objbase.h>
+	<assert.h>
+	<wtypes.h>
+	"msvc/msvcrt.h"
+	"msvc/uuidof.h"
+	"TestCase.h"
+	"Log.h"
+
+1168941250 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\msvcrt.h
+	"atlconv.h"
+	"crtdbg.h"
+	<assert.h>
+	<crtdbg.h>
+	<exception>
+
+1168869442 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\atlconv.h
+	<wchar.h>
+	<malloc.h>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\crtdbg.h
+
+1168793142 d:\ymao\my documents\gcc\wtltest\atlport\include\crtdbg.h
+
+1168941250 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\msvc\uuidof.h
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\testcase.h
+	"Basic.h"
+	<iterator>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\log.h
+	"Basic.h"
+	"Storage.h"
+	<stdio.h>
+	<stdarg.h>
+	<string>
+
+1168423394 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\storage.h
+	"Basic.h"
+	"Array.h"
+	<stdio.h>
+
+1168793142 d:\ymao\my documents\gcc\wtltest\stdext\include\stdext\array.h
+	"Basic.h"
+	<stdexcept>
+	<algorithm>
+	<functional>
+
+1168941074 d:\ymao\my documents\gcc\wtltest\atlport\include\atliface.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"oaidl.h"
+	"ocidl.h"
+
+1209004288 d:\ymao\my documents\gcc\wtltest\wtl\include\atlapp.h
+	<limits.h>
+	<process.h>
+	<commctrl.h>
+	"atlres.h"
+	"atlresce.h"
+	"atlwinx.h"
+	"atluser.h"
+	"atlgdi.h"
+
+1168431952 d:\ymao\my documents\gcc\wtltest\wtl\include\atlresce.h
+	<commctrl.h>
+	<aygshell.h>
+	<windows.h>
+	"atlres.h"
+
+1168431952 d:\ymao\my documents\gcc\wtltest\wtl\include\atlwinx.h
+	<atlwin.h>
+
+1209102505 d:\ymao\my documents\gcc\wtltest\atlport\include\atlwin.h
+
+1168950446 d:\ymao\my documents\gcc\wtltest\wtl\include\atluser.h
+
+1209105265 d:\ymao\my documents\gcc\wtltest\wtl\include\atlgdi.h
+
+1156057354 source:d:\ymao\my documents\gcc\wtltest\sample\alpha\alpha.cpp
+	"stdafx.h"
+	<atlframe.h>
+	<atlctrls.h>
+	<atldlgs.h>
+	<atlctrlw.h>
+	<atlmisc.h>
+	"resource.h"
+	"View.h"
+	"aboutdlg.h"
+	"MainFrm.h"
+
+1209092189 d:\ymao\my documents\gcc\wtltest\wtl\include\atlframe.h
+
+1209097085 d:\ymao\my documents\gcc\wtltest\wtl\include\atlctrls.h
+	<richedit.h>
+	<richole.h>
+	<winuserm.h>
+
+1209102862 d:\ymao\my documents\gcc\wtltest\wtl\include\atldlgs.h
+	<commdlg.h>
+	<shlobj.h>
+
+1209103129 d:\ymao\my documents\gcc\wtltest\wtl\include\atlctrlw.h
+
+1209028133 d:\ymao\my documents\gcc\wtltest\wtl\include\atlmisc.h
+	<stdio.h>
+
+1156057356 d:\ymao\my documents\gcc\wtltest\sample\alpha\view.h
+
+1156057356 d:\ymao\my documents\gcc\wtltest\sample\alpha\aboutdlg.h
+
+1209085043 d:\ymao\my documents\gcc\wtltest\sample\alpha\mainfrm.h
+
+1209105739 d:\ymao\my documents\gcc\wtltest\atlport\include\atlimpl.cpp
+
